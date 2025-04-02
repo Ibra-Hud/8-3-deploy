@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Brooklyn Botanic Garden",
+    "address": "990 Washington Ave, Brooklyn, NY 11225",
+    "image_url": "https://www.timeout.com/newyork/attractions/brooklyn-botanic-garden"
+  },
+  {
+    "name": "Brooklyn Museum",
+    "address": "200 Eastern Pkwy, Brooklyn, NY 11238",
+    "image_url": "https://www.timeout.com/newyork/attractions/brooklyn-museum"
+  },
+  {
+    "name": "Prospect Park",
+    "address": "Brooklyn, NY 11225",
+    "image_url": "https://www.timeout.com/newyork/attractions/prospect-park"
+  },
+  {
+    "name": "Brooklyn Bridge Park",
+    "address": "334 Furman St, Brooklyn, NY 11201",
+    "image_url": "https://www.timeout.com/newyork/attractions/brooklyn-bridge-park"
+  },
+  {
+    "name": "DUMBO",
+    "address": "Brooklyn, NY 11201",
+    "image_url": "https://www.timeout.com/newyork/attractions/dumbo"
+  },
+  {
+    "name": "Coney Island",
+    "address": "Brooklyn, NY 11224",
+    "image_url": "https://www.timeout.com/newyork/attractions/coney-island"
+  },
+  {
+    "name": "Brooklyn Heights Promenade",
+    "address": "Montague St & Pierrepont Pl, Brooklyn, NY 11201",
+    "image_url": "https://www.timeout.com/newyork/attractions/brooklyn-heights-promenade"
+  },
+  {
+    "name": "New York Transit Museum",
+    "address": "99 Schermerhorn St, Brooklyn, NY 11201",
+    "image_url": "https://www.timeout.com/newyork/museums/new-york-transit-museum"
+  },
+  {
+    "name": "Williamsburg",
+    "address": "Brooklyn, NY 11211",
+    "image_url": "https://www.timeout.com/newyork/things-to-do/williamsburg-neighborhood-guide"
+  },
+  {
+    "name": "Green-Wood Cemetery",
+    "address": "500 25th St, Brooklyn, NY 11232",
+    "image_url": "https://www.timeout.com/newyork/attractions/green-wood-cemetery"
+  }
+]
